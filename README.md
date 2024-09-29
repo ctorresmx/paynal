@@ -1,2 +1,2 @@
-# paynal
+# Paynal
 Rust-based metrics listener
